@@ -4,6 +4,7 @@ package chapter05;
 
 public class Constructor {
 	public Constructor(){
+		this("call another constructor");
 		System.out.println("Default Constructor");
 	}
 	
