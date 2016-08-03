@@ -6,11 +6,11 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-import chapter14.Cymric;
-import chapter14.Hamster;
-import chapter14.Mouse;
-import chapter14.Pet;
-import chapter14.Pets;
+import chapter14.pets.Cymric;
+import chapter14.pets.Hamster;
+import chapter14.pets.Mouse;
+import chapter14.pets.Pet;
+import chapter14.pets.Pets;
 import static com.maoruxin.javabook.util.Print.*;
 
 public class ListFeatures {

@@ -1,6 +1,6 @@
 //: typeinfo/pets/LiteralPetCreator.java
 // Using class literals.
-package chapter14;
+package chapter14.pets;
 import java.util.*;
 
 public class LiteralPetCreator extends PetCreator {

@@ -1,5 +1,5 @@
 //: typeinfo/pets/Dog.java
-package chapter14;
+package chapter14.pets;
 
 public class Dog extends Pet {
   public Dog(String name) { super(name); }
