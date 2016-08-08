@@ -1,11 +1,12 @@
 package chapter11;
 
+import static com.maoruxin.javabook.util.Print.print;
+
 import java.util.Iterator;
 import java.util.List;
 
-import chapter14.Pet;
-import chapter14.Pets;
-import static com.maoruxin.javabook.util.Print.*;
+import chapter14.pets.Pet;
+import chapter14.pets.Pets;
 
 public class SimpleIteration {
 	public static void main(String[] args) {

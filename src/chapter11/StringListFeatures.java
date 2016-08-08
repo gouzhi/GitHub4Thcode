@@ -8,12 +8,6 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Random;
 
-import chapter14.Cymric;
-import chapter14.Hamster;
-import chapter14.Mouse;
-import chapter14.Pet;
-import chapter14.Pets;
-
 public class StringListFeatures {
 	public static void main(String[] args) {
 		Random rand = new Random(47);

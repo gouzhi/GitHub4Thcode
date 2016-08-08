@@ -1,17 +1,12 @@
 package chapter11;
 
+import static com.maoruxin.javabook.util.Print.print;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 import java.util.Random;
-
-import chapter14.Cymric;
-import chapter14.Hamster;
-import chapter14.Mouse;
-import chapter14.Pet;
-import chapter14.Pets;
-import static com.maoruxin.javabook.util.Print.*;
 
 public class IntegerListFeatures {
 	public static void main(String[] args) {

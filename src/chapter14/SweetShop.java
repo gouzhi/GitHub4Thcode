@@ -5,7 +5,7 @@ class Candy{
 	static {print("Loading Candy");}
 }
 
-class Cum{
+class Gum{
 	static {print("Loading Gum");}
 }
 
@@ -19,7 +19,7 @@ public class SweetShop {
 		new Candy();
 		print("After createing Candy");
 		try{
-			Class.forName("Gum");
+			Class.forName("chapter14.Gum");
 		}catch(ClassNotFoundException e){
 			e.printStackTrace();
 			print("Couldn't find Gum");
